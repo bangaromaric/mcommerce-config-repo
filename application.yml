@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/bangaromaric/mcommerce-config-repo
+          skipSslValidation: true
