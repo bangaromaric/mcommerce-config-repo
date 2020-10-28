@@ -3,5 +3,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/bangaromaric/mcommerce-config-repo.git
+          uri: https://github.com/bangaromaric/mcommerce-config-repo
           skipSslValidation: true
